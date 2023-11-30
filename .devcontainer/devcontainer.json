@@ -1,4 +1,4 @@
-   ```jsonc
+
    {
      // Name this configuration
      "name": "Codespace for Skills!",
@@ -8,4 +8,3 @@
      "remoteUser": "codespace",
      "overrideCommand": false
    }
-   ```
